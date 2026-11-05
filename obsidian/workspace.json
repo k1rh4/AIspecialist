@@ -1,0 +1,733 @@
+{
+  "main": {
+    "id": "c029c94f2773fea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd456dceb5d42d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f1daac2466e99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오리엔테이션.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "오리엔테이션"
+            }
+          },
+          {
+            "id": "84f7932ca595524c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/01. LLM 의 이해와 확장.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. LLM 의 이해와 확장"
+            }
+          },
+          {
+            "id": "dbc9b56763445408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/02. AI 기본 수학.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. AI 기본 수학"
+            }
+          },
+          {
+            "id": "da72ef1dad703197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/00. 1일차 레포지토리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. 1일차 레포지토리"
+            }
+          },
+          {
+            "id": "d2bb020d5af0161b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/03. 언어모델.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. 언어모델"
+            }
+          },
+          {
+            "id": "b3e6cbb856c32542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/04. 실습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04. 실습"
+            }
+          },
+          {
+            "id": "2e523762dc0b5280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/05. 토크나이저 (입력 임베딩).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. 토크나이저 (입력 임베딩)"
+            }
+          },
+          {
+            "id": "0fb23c476d30a7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/06. 위치 인코딩 (위치 임베딩).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. 위치 인코딩 (위치 임베딩)"
+            }
+          },
+          {
+            "id": "caa23d0e09be86a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/07. 데이터셋.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07. 데이터셋"
+            }
+          },
+          {
+            "id": "8cfe18a2bfe8f23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/08. Attention Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08. Attention Model"
+            }
+          },
+          {
+            "id": "c3fd23f85d890699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/09. Dropout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09. Dropout"
+            }
+          },
+          {
+            "id": "1820f88a982c2ba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/10. 정규화.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. 정규화"
+            }
+          },
+          {
+            "id": "0655c6695a9c5551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/11. Feed forward network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Feed forward network"
+            }
+          },
+          {
+            "id": "fe6d6b24e5b78638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/12. 활성화 함수.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. 활성화 함수"
+            }
+          },
+          {
+            "id": "8f6f024f86bdb945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/00. 1일차 레포지토리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. 1일차 레포지토리"
+            }
+          },
+          {
+            "id": "cc836f50015e11ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/01. Capter4. 실습 - GPT(여기서다나올듯).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Capter4. 실습 - GPT(여기서다나올듯)"
+            }
+          },
+          {
+            "id": "d590697cf7ee055f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/01. Capter4. 실습 - GPT(여기서다나올듯).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Capter4. 실습 - GPT(여기서다나올듯)"
+            }
+          },
+          {
+            "id": "5bc43322c0e0f90f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/03. Fine tunning..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Fine tunning."
+            }
+          },
+          {
+            "id": "800657576418e757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/04. 실습 6 - SPAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04. 실습 6 - SPAM"
+            }
+          },
+          {
+            "id": "2b2268292f8fc634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/05. 실습6 - LoRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. 실습6 - LoRA"
+            }
+          },
+          {
+            "id": "4f9d14436763c437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/05. 수업시작 (배경설명).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. 수업시작 (배경설명)"
+            }
+          },
+          {
+            "id": "ad5ceef1904a8ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/09. 실습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09. 실습"
+            }
+          },
+          {
+            "id": "c4340c4544da362c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/10. 실습 (RESNET18).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. 실습 (RESNET18)"
+            }
+          },
+          {
+            "id": "5d13f9c66fea8842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/11. Attention & transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Attention & transformer"
+            }
+          },
+          {
+            "id": "d3048c1529e9ad93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/05. 실습6 - LoRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. 실습6 - LoRA"
+            }
+          },
+          {
+            "id": "ed053c6c45ac486a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/12. ViT (Vision Transformer).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. ViT (Vision Transformer)"
+            }
+          },
+          {
+            "id": "f0c3f4007d107b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4일차/06. 실습 ViT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. 실습 ViT"
+            }
+          },
+          {
+            "id": "8872c7599abf522e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4일차/06. 실습 ViT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. 실습 ViT"
+            }
+          },
+          {
+            "id": "d147d91cea3387af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2일차/06. 지시 미세 튜닝.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. 지시 미세 튜닝"
+            }
+          },
+          {
+            "id": "48321646cf42d662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4일차/06. 실습 ViT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. 실습 ViT"
+            }
+          },
+          {
+            "id": "45578410d03cef63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/10. 실습. RESNET18 - 이론.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. 실습. RESNET18 - 이론"
+            }
+          },
+          {
+            "id": "441129a654587192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/10. 실습. RESNET18 - 코드.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. 실습. RESNET18 - 코드"
+            }
+          },
+          {
+            "id": "cf9b6b9bb9e42279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3일차/12. ViT (Vision Transformer).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. ViT (Vision Transformer)"
+            }
+          },
+          {
+            "id": "02f7c5e78b550336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1일차/11. Feed forward network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Feed forward network"
+            }
+          },
+          {
+            "id": "5adeef9b386d0c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4일차/10. Segmenntation (U-NET).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Segmenntation (U-NET)"
+            }
+          },
+          {
+            "id": "f64cc501bf99057b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4일차/05. Transformer (recap)+ SWIM+DNIO (시험범위 밖).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. Transformer (recap)+ SWIM+DNIO (시험범위 밖)"
+            }
+          }
+        ],
+        "currentTab": 35
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da2f70289c4064ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e892ce51afe1120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c8d076749f11da3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a9e87b0b721aee7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "16a1285cba4f8016",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.4079704284668
+  },
+  "right": {
+    "id": "e9e6251f45c6dd35",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfaa93642e960f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30305f4f0b8cf05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1일차/13. GPT 출력의 입출력.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "3ba9343055d90d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1일차/13. GPT 출력의 입출력.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "078e5ab458e9073b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "18d0a82fbbe02dec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "0385cac8ce61d4c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1일차/13. GPT 출력의 입출력.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "git-vault-sync:Git Vault Sync: Sync vault": false
+    }
+  },
+  "active": "f64cc501bf99057b",
+  "lastOpenFiles": [
+    "Pasted image 20261105170219 - xxxxxxxxxxxxxxxxxxxxxxxxx.png",
+    "Pasted image 20261105170219 - 복사본.png",
+    "3일차/05. 수업시작.md",
+    "3일차/12. ViT (Vision Transformer).md",
+    "무제.canvas",
+    "3일차/1WOBVTABYBWW.MTB",
+    "4일차/11. 실습 - U-NET.md",
+    "3일차/07. 기본 구조 (CNN, DNN).md",
+    "3일차/06. 용어 정리 (내적, 코사인 유사도, 크로스 엔트로피).md",
+    "3일차/05. 수업시작 (배경설명).md",
+    "3일차/04_Applications.pdf",
+    "3일차/03_Attention.pdf",
+    "3일차/02_DNN_CNN.pdf",
+    "2일차/06. 지시 미세 튜닝.md",
+    "2일차/03. Fine tunning..md",
+    "2일차/02. Capter5. Data traning.md",
+    "4일차/10. Segmenntation (U-NET).md",
+    "4일차/09. 실습 DETR (Detection Transformer).md",
+    "4일차/07. Application (detection 관련).md",
+    "4일차/05. Transformer (recap)+ SWIM+DNIO (시험범위 밖).md",
+    "4일차/06. 실습 ViT.md",
+    "4일차/04_Applications.pdf",
+    "4일차/08. byte Track (Detect by track).md",
+    "2일차/07.실습. instruction - DPO 튜닝.md",
+    "2일차/05. 실습6 - LoRA.md",
+    "2일차/01. Capter4. 실습 - GPT(여기서다나올듯).md",
+    "1일차/08. Attention Model.md",
+    "1일차/12. 활성화 함수.md",
+    "1일차/10. 정규화.md",
+    "1일차/11. Feed forward network.md",
+    "1일차/13. GPT 출력의 입출력.md",
+    "Pasted image 20261105170219.png",
+    "1일차/08. Transformer.md",
+    "Pasted image 20261105165828.png",
+    "3일차/11. Attention & transformer.md",
+    "Pasted image 20261105164420.png",
+    "Pasted image 20261105162438.png",
+    "Pasted image 20261105162008.png",
+    "Pasted image 20261105161750.png",
+    "Pasted image 20261105161737.png",
+    "Pasted image 20261105161031.png",
+    "Pasted image 20261105161012.png",
+    "4일차/03_Attention.pdf",
+    "무제.base",
+    "4일차",
+    "3일차/01_Intro.pdf",
+    "무제 1.base"
+  ]
+}

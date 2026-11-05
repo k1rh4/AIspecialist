@@ -1,0 +1,20 @@
+{
+  "remoteUrl": "https://github.com/k1rh4/AIspecialist.git",
+  "branch": "main",
+  "authorName": "k1rh4",
+  "authorEmail": "",
+  "username": "k1rh4",
+  "token": "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",
+  "commitMessage": "vault sync {{date}}",
+  "autoSyncEnabled": true,
+  "autoSyncInterval": 5,
+  "syncOnStartup": true,
+  "lastSyncAt": 0,
+  "excludePaths": ".obsidian/workspace.json\n.obsidian/workspace-mobile.json\n.DS_Store\n.trash/",
+  "language": "en",
+  "syncEngine": "api",
+  "apiBaseline": {
+    "commitSha": null,
+    "shas": {}
+  }
+}
