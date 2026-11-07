@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 뷰
+    sort:
+      - property: file.folder
+        direction: ASC
