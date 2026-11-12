@@ -1,0 +1,6 @@
+conda activate base && conda env remove -n rag -y 2>nul & conda create --name rag python=3.10 pip notebook ipykernel -y && conda run -n rag python -m ipykernel install --user --name rag --display-name "rag" && conda activate rag
+
+
+
+conda activate rag && jupyter notebook --notebook-dir="your_path"
+
